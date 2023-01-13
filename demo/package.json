@@ -9,7 +9,7 @@
     "react": "^16.4.0",
     "semantic-ui-react": "^0.81.0",
     "webpack": "^4.10.2",
-    "webpack-cli": "^3.0.1",
+    "webpack-cli": "^3.3.12",
     "moment": "^2.22.2",
     "react-semantic-datetime": "^0.0.2",
     "path": "0.12.7"
